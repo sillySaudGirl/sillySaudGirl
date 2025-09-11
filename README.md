@@ -1,5 +1,7 @@
 <p align="center">
-  <a href="#"><img width="100%" height="auto" src="[Anime Shock GIF](https://media.tenor.com/C2oA8TzZ9_kAAAAC/anime-shock.gif )" height="175px"/></a>
+
+![Anime Shock GIF](https://media.tenor.com/C2oA8TzZ9_kAAAAC/anime-shock.gif )
+
 </p>
 
 <h1 align="center">Hi<img src="https://media.giphy.com/media/XmaRBqmJCzFjOsjl2O/giphy.gif" width="24px">, I'm Kenzy</h1>

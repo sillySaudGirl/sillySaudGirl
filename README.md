@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#"><img width="100%" height="auto" src="(https://tenor.com/view/anime-shock-anime-girl-anime-3-puntos-shock-gif-9717785340812000237)" height="175px"/></a>
+  <a href="#"><img width="100%" height="auto" src="(https://media.tenor.com/view/anime-shock-anime-girl-anime-3-puntos-shock-gif-9717785340812000237)" height="175px"/></a>
 </p>
 
 <h1 align="center">Hi<img src="https://media.giphy.com/media/XmaRBqmJCzFjOsjl2O/giphy.gif" width="24px">, I'm Kenzy</h1>

@@ -1,8 +1,3 @@
-<p align="center">
-
-![Anime Shock GIF](https://media.tenor.com/C2oA8TzZ9_kAAAAC/anime-shock.gif )
-
-</p>
 
 <h1 align="center">Hi<img src="https://media.giphy.com/media/XmaRBqmJCzFjOsjl2O/giphy.gif" width="24px">, I'm Kenzy</h1>
 

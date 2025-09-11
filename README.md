@@ -2,7 +2,7 @@
   <a href="#"><img width="100%" height="auto" src="https://media1.tenor.com/m/RNu6ziNyDXIAAAAd/2b-nier.gif" height="175px"/></a>
 </p>
 
-<h1 align="center">Hello Girls <img src="https://media.giphy.com/media/XmaRBqmJCzFjOsjl2O/giphy.gif" width="24px">, I'm Silly</h1>
+<h1 align="center">Hi<img src="https://media.giphy.com/media/XmaRBqmJCzFjOsjl2O/giphy.gif" width="24px">, I'm Silly</h1>
 
 
 ## GitHub Stats
